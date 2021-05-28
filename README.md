@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, I'm Cats 👋
 
-<!--
-**Cats3153/Cats3153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some projects I'm working on:
 
-Here are some ideas to get you started:
+### [**js-cord**](https://github.com/jay3332/js-cord)
+A wrapper around the Discord API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- JavaScript
+  - Node.js
+  - Frontend
+  - TypeScript
+- Python
+- HTML
+- CSS
+
+## Github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=Cats3153&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cats3153&layout=compact&theme=gotham" />
