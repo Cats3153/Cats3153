@@ -9,6 +9,7 @@ A wrapper around the Discord API.
 - JavaScript
   - Node.js
   - Frontend
+  - JSX / React
   - TypeScript
 - Python
 - HTML
