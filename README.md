@@ -14,7 +14,8 @@ A wrapper around the Discord API.
 - Python
 - HTML
 - CSS
-- Java
+- Java (learning)
+- Rust (learning)
 
 ## Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=Cats3153&theme=gotham" />
