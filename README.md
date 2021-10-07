@@ -5,6 +5,9 @@
 ### [**js-cord**](https://github.com/jay3332/js-cord)
 A wrapper around the Discord API.
 
+### [**sniper**](https://github.com/DankMemer/sniper)
+An easy to run simple bot that lets you snipe messages in your Discord server.
+
 ## Languages
 - JavaScript
   - Node.js
