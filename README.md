@@ -21,5 +21,4 @@ An easy to run simple bot that lets you snipe messages in your Discord server.
 - Rust (learning)
 
 ## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Cats3153&theme=gotham" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cats3153&layout=compact&theme=gotham" />
+![suspishous metrics.](./github-metrics.svg)
